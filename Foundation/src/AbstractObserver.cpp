@@ -1,4 +1,4 @@
-//
+//test
 // AbstractObserver.cpp
 //
 // $Id: //poco/1.4/Foundation/src/AbstractObserver.cpp#1 $
